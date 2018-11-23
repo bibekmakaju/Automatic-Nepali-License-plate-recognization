@@ -1,12 +1,27 @@
 # Automatic-Nepali-License-plate-recognization
 
-Images are available with csv file at: https://drive.google.com/open?id=1RWMFs2fS0ds-e_cEOWR_vi-Jp29HmEfz
 
-Model.ckpt :https://drive.google.com/open?id=1d-55mxZjB8h2wIdW5DQFDHWXPlwfOd-j
+Project at:https://drive.google.com/open?id=1cEh9mriA0l3TPd4WEDGDXWYW0RwBti4H
 
-train.record :https://drive.google.com/open?id=1vUQv8Pp1U1gFZDO6uAYs932VZukBXBon
-test.record : https://drive.google.com/open?id=1_mMfZjNdo8mUyzO_-z6rYmNZEMpvFLaj
+#Requirements
+Anaconda (python3.6)
 
-download these files and move to object_detection directory
+
+
+python packages
+-opencv
+-tkinter
+-sqlite3
+-tensoflow-gpu(Gpu capable hardware)
+
+
+
+This project use the tensorflow object detection api for object detection(license plate) and tf for poets-2 fro classification of character from the plate
+
+
+use this tutorial for using Object detection api
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+
+
 
 

@@ -23,5 +23,5 @@ use this tutorial for using Object detection api
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 
-Run splash-screen.py from models/reserach/objectdetection folder
+Run splash-screen.py from models/research/object_detection folder
 
